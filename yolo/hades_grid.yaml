@@ -1,0 +1,7 @@
+
+path: /home/ayyatma/projects/h2_icon/yolo/hades_grid
+train: images
+val: images
+names:
+  0: grid_boon
+  1: tray_icon
